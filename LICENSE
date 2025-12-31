@@ -1,0 +1,27 @@
+TRINDADE PROTOCOL - MASTER LICENSE AGREEMENT
+
+This repository contains two distinct types of intellectual property, each governed by its own license terms.
+
+1. SOFTWARE LICENSE (Source Code)
+   Applies to: trindade_kernel.py and all related software files.
+   License: Business Source License 1.1 (BUSL-1.1)
+   
+   TERMS:
+   - Permitted: Non-commercial use, academic research, testing, and auditing.
+   - PROHIBITED: Production use or commercial exploitation without a specific license from the Architect.
+   - Licensor: ANDRÉ LUIZ TRINDADE.
+   - Change Date: 2029-01-01.
+   - Change License: Apache License, Version 2.0.
+
+2. DOCUMENTATION LICENSE (White Papers)
+   Applies to: SPECIFICATION.pdf and documentation files.
+   License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0).
+
+   TERMS:
+   - You may share and redistribute the material.
+   - You MUST give appropriate credit to ANDRÉ LUIZ TRINDADE.
+   - You may NOT use the material for commercial purposes.
+   - You may NOT distribute modified versions.
+
+COPYRIGHT NOTICE
+Copyright (c) 2025 André Luiz Trindade. All Rights Reserved.
