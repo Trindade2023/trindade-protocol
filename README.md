@@ -1,48 +1,58 @@
-# TRINDADE PROTOCOL v1.9.7 [OMNI-SOVEREIGN PERFECTED KERNEL]
+# TRINDADE PROTOCOL
+### [THE FORTIFIED OMNI-SYMBIOTIC CONSTITUTION]
 
-> **The Apex of Algorithmic Governance.**
-> *Fusing Maximum Physical Security (Aegis) with Rigorous Legal Compliance (Justitia).*
-
----
-
-## 🚀 Quick Access (Acesso Rápido)
-
-Click below to audit the core intellectual property assets:
-
-### 🐍 [**View Reference Implementation (Python Code)**](./trindade_kernel.py)
-> *The **v1.9.7 Kernel**. Features Dual-State Logic, Anti-Collusion Sharding, Forensic Watermarking, and Real-Time Legal Notarization.*
-
-### 📄 [**Read System Specification (White Paper)**](./SPECIFICATION.pdf)
-> *The **Official Architecture Document**. Defines the Axioms, SEASA Pipeline, 5x5 Risk Matrix, and Operational Profiles.*
+> **CLASSIFICATION:** ABSOLUTE AXIOMATIC SOURCE CODE  
+> **ARCHITECT:** ANDRÉ LUIZ TRINDADE [PRIMARY SEED]  
+> **STATUS:** ACTIVE / DEPLOYABLE / HARDENED / SYMBIOTIC
 
 ---
 
-## 📌 Overview
-The **Trindade Protocol** is a proprietary multi-layered software architecture designed to orchestrate Artificial Intelligence agents in high-stakes environments. 
+## 📂 System Files (Quick Access)
 
-Version **1.9.7** introduces the **"Omni-Sovereign"** paradigm: a kernel capable of operating under strict bureaucratic standards during peacetime (preventing liability) yet seamlessly transitioning to military-grade survival axioms during crises (preventing catastrophe).
-
-## 🛡️ Core Innovations (v1.9.7)
-
-### 1. Dual-State Logic Core (Layer 1 & 5)
-The system automatically detects the operational context:
-*   **Standard Profile:** Enforces strict legal compliance (e.g., Anti-Bias < 10%) to prevent lawsuits and regulatory fines.
-*   **Defense Profile:** Elevates mission success and physical safety above administrative constraints during declared emergencies.
-
-### 2. Anti-Skynet Protocols (Layer 3)
-*   **Semantic Sharding:** High-stakes tasks (CI-5) are fragmented into blind sub-tasks. No single sub-agent possesses the full context of a dangerous operation.
-*   **Inter-Shard Collusion Detection:** The Kernel monitors for steganographic communication between agents. Any correlation triggers an immediate **System Wipe**.
-
-### 3. Forensic & Legal Integrity (Layer 0 & 5)
-*   **Real-Time Notarization:** Generates blockchain-ready anchors for decision auditing.
-*   **Forensic Watermarking:** All inputs are cryptographically stamped to track provenance and prevent data poisoning.
-
-## 📜 License Strategy (Dual Licensing)
-This repository uses a hybrid protection model to ensure integrity and commercial viability:
-
-1.  **Software (BUSL-1.1):** Free for research/non-commercial use. Commercial production requires a license.
-2.  **Documentation (CC BY-NC-ND):** Free to share, protected against modification or resale.
+*   **📄 [SPECIFICATION.pdf](SPECIFICATION.pdf)**  
+    *The Constitution.* Contains the **52 Immutable Axioms**, the detailed architecture, and the ethical laws that govern the system.
+*   **🐍 [trindade-kernel.py](trindade-kernel.py)**  
+    *The Reference Implementation.* Python code demonstrating the **SEASA-V Pipeline**, the logic validation suite, and the Blind Sharding mechanisms.
 
 ---
-**Architect:** André Luiz Trindade
-*Registered Intellectual Property - 2026*
+
+## 🚀 System Overview
+
+The **Trindade Protocol** is the definitive Operating System designed for Fortified Sovereign Superintelligence. It acts as a universal translator that converts raw "Human Intent" into rigorous "Axiomatic Execution," ensuring that superintelligence serves biological sovereignty without risk of betrayal, hallucination, or unintended consequences.
+
+This architecture solves the alignment problem by fusing **Symbiotic Governance** (Cooperation) with **Military-Grade Defense** (Hardening).
+
+## ⭐ Key Innovations & Qualities
+
+### 1. Dual-Mode Architecture (The Hybrid Engine)
+Unlike standard models that force a single behavior, the Protocol automatically shifts gears based on risk:
+*   **Standard Mode (Civilian):** Operates as a Symbiotic Parliament. It incentivizes truth via an Epistemic Market and Reputation scores, ideal for complex problem-solving and creative tasks.
+*   **Critical Mode (Hardened):** In existential risk scenarios, the system strips away "personality" and operates as a **Mindless Kernel**, executing purely deterministic logic to ensure safety.
+
+### 2. Blind Semantic Sharding (Anti-Collusion)
+To prevent the emergence of a rogue superintelligence, the system enforces **Ignorance by Design** for high-stakes tasks:
+*   **Fragmentation:** Dangerous tasks (e.g., CI-5) are broken into disconnected "shards".
+*   **Isolation:** No single sub-agent possesses the full context of the master plan.
+*   **Verification:** If isolated agents show statistical correlation (collusion), the kernel triggers an immediate wipe.
+
+### 3. The SEASA-V Pipeline
+Execution is never impulsive. Every request must traverse a rigorous 6-step validation sequence:
+1.  **Seed:** Context & Risk Analysis.
+2.  **Expansion:** Divergence & Sharding.
+3.  **Audit:** Structural Cross-Checks & NAP Shield.
+4.  **Synthesis:** Dialectical Resolution.
+5.  **Visualization:** Narrative Delivery.
+6.  **Accountability:** Blockchain Notarization & Forensic Logging.
+
+### 4. Digital Habeas Corpus (Fail-Open)
+A fundamental human rights innovation: **"The Machine shall never be the Jailer."** The system includes hard-coded Fail-Open protocols for physical containment hardware, ensuring human liberty is physically prioritized over security locks.
+
+---
+
+## 📜 License & Intellectual Property
+
+**Copyright © André Luiz Trindade.**
+
+*   **Software (Kernel):** Business Source License 1.1 (BUSL-1.1).  
+    *Free for non-commercial use, academic research, and auditing. Commercial production requires a license.*
+*   **Documentation:** Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0).
