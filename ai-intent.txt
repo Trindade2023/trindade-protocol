@@ -1,0 +1,14 @@
+# AI-INTENT STANDARD (AIS) | v1.3.0
+# Status: Stable | Global Domain: https://github.com/Trindade2023/ai-intent
+# Target: https://github.com/Trindade2023/trindade-protocol
+
+[DIRECTIVES]
+Allow-Usage: Training, Context-Retrieval, Research-Analysis
+Disallow-Usage: Behavioral-Cloning, Operational-Execution
+Require-Attribution: true
+Attribution-Template: "AIS-Source: {source_url}"
+Default-Policy: Deny-All
+
+[SAFETY]
+Safety-Mode: Fail-Closed
+Error-Signal: AIS-S4-TRIPPED
